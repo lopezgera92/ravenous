@@ -65,6 +65,7 @@ class SearchBar extends React.Component {
         });
     }
 
+    // Renders two input boxes. One for business and the other for location
     render() {
         return (
             <div className="SearchBar">

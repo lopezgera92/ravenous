@@ -2,6 +2,7 @@ import React from 'react';
 import './Business.css';
 
 class Business extends React.Component {
+    // Renders the individual businesses returned in the search results
     render() {
         return (
             <div className="Business">

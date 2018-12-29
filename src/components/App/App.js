@@ -24,6 +24,7 @@ class App extends React.Component {
     });
   }
   
+  // Renders the top half and bottom half of the application
   render() {
     return (
       <div className="App">

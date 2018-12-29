@@ -1,5 +1,7 @@
+// Credential provided by Yelp to use their API
 const apiKey = 'Wi6sXou2Vjyf17fl4AKrobNQx_xJQbFQmiqVgxhIDjXj-nDZi8L0teKTMCOXcguN4aPygXg97bNeYM1eMPAagJvrbCk8G4RfScqDIrmltOaeE3pr7SendGGWwZVoW3Yx';
 
+// Yelp module that stores functionality to interact with Yelp API. Retrieves search results
 const Yelp = {
     search (term, location, sortBy) {
         return fetch(`https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`,
