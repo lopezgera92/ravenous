@@ -3,6 +3,10 @@ Ravenous is a web application built using the React framework. It allows users t
 
 A user can type the name of a business or food of choice into the search bar along with a preffered destination and click the LETS GO button to request business data from the Yelp API. Ravenous then displays a list of returned businesses from the users query and that list is sorted by "best match", "highest rated", or "most reviewed". 
 
+![screen shot 2019-01-31 at 6 54 34 pm](https://user-images.githubusercontent.com/27708647/52099874-e721a580-2589-11e9-8f25-68352bbd08dc.png)
+
+
+![screen shot 2019-01-31 at 6 55 18 pm](https://user-images.githubusercontent.com/27708647/52099902-10423600-258a-11e9-8daf-7a1626f14c64.png)
 
 ### Prerequisites
 * [Node.js](https://nodejs.org/en/) - The runtime environment used
