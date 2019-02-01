@@ -31,5 +31,5 @@ A user can type the name of a business or food of choice into the search bar alo
 
 ## Authors
 I implemented each component of the application, along with the calls to the Yelp endpoints. Codecademy.com provided the styling/structure of the application
-* **Gerardo Lopez** - App.js, Business.js, BusinessList.js, searchBar.js, Yelp.js 
+* **Gerardo Lopez** - App.js, Business.js, BusinessList.js, SearchBar.js, Yelp.js 
 * **Codecademy.com** - favicon.ico, index.html, manifest.json, reset.css, App.css, Business.css, BusinessList.css, searchBar.css,index.css, index.js, logo.svg, registerServiceWorker.js
