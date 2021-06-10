@@ -1,5 +1,5 @@
 // Credential provided by Yelp to use their API
-const apiKey = 'Wi6sXou2Vjyf17fl4AKrobNQx_xJQbFQmiqVgxhIDjXj-nDZi8L0teKTMCOXcguN4aPygXg97bNeYM1eMPAagJvrbCk8G4RfScqDIrmltOaeE3pr7SendGGWwZVoW3Yx';
+const apiKey = '8zjWvQYEUrwtx7rXyqaZbjQ7vuagl3gpNePnEG1NRXmakPtgtzsFluYnTpDt-4vQDQdrdYhfwXmM2BsiXxA-ffTU7jVTtBok8cwjaatAZ8oGrHZ8IBsWWY7ayWXCYHYx';
 
 // Yelp module that stores functionality to interact with Yelp API. Retrieves search results
 const Yelp = {
